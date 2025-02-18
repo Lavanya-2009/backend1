@@ -1,0 +1,6 @@
+Flask
+requests
+beautifulsoup4
+pyttsx3
+SpeechRecognition
+scikit-learn
